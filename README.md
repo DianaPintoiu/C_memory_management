@@ -48,5 +48,3 @@ The `print` function displays all elements in the data vector. It iterates throu
 ## Final Thoughts
 
 This assignment was quite challenging, and receiving clarifications somewhat late didn't help. However, in the end, I'm happy that I managed to complete it. The project helped me learn how to use GDB effectively. Once you understand what is required and expected, the task becomes manageable. The well-structured problem statement made the entire experience more manageable.
-
-# C_memory_management
